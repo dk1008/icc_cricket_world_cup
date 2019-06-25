@@ -1,4 +1,4 @@
-class Tournament3
+class Tournament
 {
 	public static void main(String[] args)
 	{
