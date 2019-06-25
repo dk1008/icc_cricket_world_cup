@@ -1,6 +1,6 @@
 # icc_cricket_world_cup
 program to build schedule for the tournament. 
-
+(8 Team are participating in ICC World Cup 2019 Scheduled to Start on may 30,2019 in England.)
 
 Refer to appendix for team and venues.
 
