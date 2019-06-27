@@ -1,3 +1,5 @@
+//this program is only for 8 team...
+//you have to make changes ,if you want to increase/decrease team.
 enum month
 {
 	JAN,FEB,MARCH,APRIL,MAY,JUNE,JULY,AUG,SEP,OCT,NOV,DEC;
