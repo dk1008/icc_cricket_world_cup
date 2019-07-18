@@ -7,7 +7,7 @@ Refer to appendix for team and venues.
 Rules:- 
   1) Every team play every other team once.
   2) Maximum of only 3 match can be scheduled in a given day,as there are only 3 venues.
-  3) There should be a reserve day for each venues between 2 matches and there cannot be a gap of more than 4 days between any      2 matches.
+  3) There should be a reserve day for each venues between 2 matches and there cannot be a gap of more than 4 days between any 2 matches.
   
   
    -----------------------------------------------Appendix------------------------------------------
